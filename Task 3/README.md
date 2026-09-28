@@ -6,7 +6,7 @@ This project was developed as part of **Week 3 of the Data Science Internship at
 
 The project focuses on transforming raw vehicle data into meaningful business insights through **data exploration, data validation, feature engineering, KPI calculation, exploratory analysis, and an interactive dashboard**.
 
-The dataset contains **5,000 vehicle records and 7 original attributes**, including manufacturer, model, engine size, fuel type, year of manufacture, mileage, and price.
+The dataset contains **50,000 vehicle records and 7 original attributes**, including manufacturer, model, engine size, fuel type, year of manufacture, mileage, and price.
 
 The project also includes a **bonus machine learning component** that uses vehicle characteristics to predict vehicle prices.
 
