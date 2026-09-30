@@ -28,7 +28,7 @@ The project also includes a **bonus machine learning component** that uses vehic
 
 ##  Dataset
 
-The dataset contains **5,000 rows and 7 columns**.
+The dataset contains **50,000 rows and 7 columns**.
 
 ### Original Features
 
