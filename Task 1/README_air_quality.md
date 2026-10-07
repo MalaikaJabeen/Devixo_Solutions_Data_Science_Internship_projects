@@ -79,4 +79,4 @@ This project performs a complete Exploratory Data Analysis (EDA) and statistical
 
 **Malaika Jabeen**
 Data Science Intern, Devixo Solutions
-GitHub: [mjcodes-77](https://github.com/mjcodes-77)
+GitHub: [MalaikaJabeen](https://github.com/MalaikaJabeen)
